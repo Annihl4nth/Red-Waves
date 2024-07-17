@@ -1,6 +1,6 @@
 {
-  "name": "Waves - Soul",
-  "description": "\"Waves With A Little Blue.\"",
+  "name": "Red Waves - Soul",
+  "description": "\"Waves With A Little Red.\"",
   "color": "#A5C4FF",
   "authors": [
     {
@@ -31,19 +31,19 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#71A2FF",
+      "#FFA271",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#71A2FF",
+      "#FFA271",
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#71A2FF",
+      "#FFA271",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#71A2FF",
+      "#FFA271",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
@@ -63,7 +63,7 @@
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
-      "#272c35",
+      "#352c27",
       "#ffffff"
     ],
     "BACKGROUND_FLOATING": [
@@ -91,7 +91,7 @@
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#71A2FF",
+      "#FFA271",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
@@ -144,7 +144,7 @@
       "#000000"
     ],
     "TEXT_LINK": [
-      "#71A2FF",
+      "#FFA271",
       "#ffffff"
     ],
     "KEYBOARD": [
@@ -152,7 +152,7 @@
       "#ffffff"
     ],
     "CHANNEL_ICON": [
-      "#71A2FF",
+      "#FFA271",
       "#ffffff"
     ]
   },
@@ -162,7 +162,7 @@
     "PRIMARY_200": "#ffffff",
     "PRIMARY_300": "#B6B6B6",
     "PRIMARY_360": "#A6A6A6",
-    "PRIMARY_400": "#71A2FF",
+    "PRIMARY_400": "#FFA271",
     "PRIMARY_500": "#000000",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
@@ -170,27 +170,27 @@
     "PRIMARY_800": "#000000",
     "PRIMARY_900": "#050505",
     "PLUM_1": "#000000",
-    "PLUM_3": "#7CA1F8",
+    "PLUM_3": "#F8A17C",
     "PLUM_6": "#FFFFFF",
     "PLUM_9": "#FFFFFF",
-    "PLUM_10": "#828490",
+    "PLUM_10": "#908482",
     "PLUM_11": "#000000",
-    "PLUM_13": "#476FC6",
+    "PLUM_13": "#C66F47",
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
     "PLUM_20": "#000000",
     "PLUM_22": "#000000",
-    "BRAND_260": "#8a94a8",
-    "BRAND_500": "#71A2FF",
-    "BRAND_560": "#71A2FF",
+    "BRAND_260": "#a8948a",
+    "BRAND_500": "#FFA271",
+    "BRAND_560": "#FFA271",
     "BRAND_900": "#ffffff",
-    "BRAND": "#8a94a8",
+    "BRAND": "#a8948a",
     "YELLOW_300": "#ffffff",
     "GREEN_600": "#ffffff",
     "DANGER": "#2c2c2c",
     "RED": "#848484",
-    "RED_400": "#71A2FF"
+    "RED_400": "#FFA271"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#8E8E8E"
